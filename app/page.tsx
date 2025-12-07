@@ -32,7 +32,7 @@ export default function Home() {
             {/* CTA Button */}
             <div className="mt-2 sm:mt-4">
               <Button size="lg" variant="default" asChild className="text-base rounded-none">
-                <Link href="/projects">Explore Projects</Link>
+                <Link href="/get-started">Get Started</Link>
               </Button>
             </div>
           </div>
